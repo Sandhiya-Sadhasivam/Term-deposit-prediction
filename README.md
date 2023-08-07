@@ -1,1 +1,1 @@
-# Trem-deposit-prediction
+# Term-deposit-prediction
